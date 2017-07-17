@@ -72,7 +72,5 @@ SQLite was chosen for portability, your script should be able to run anywhere. (
 
 
 EXPECTATIONS : 
-
-Put in a good effort to complete the requirements above.  Even if you do not finish the full project, please turn in everything you have, and all files so we can look over all of the files.
 Job_Application_Project_Abridged_Junior.txt
 Displaying Job_Application_Project_Abridged_Junior.txt.
