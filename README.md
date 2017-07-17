@@ -1,5 +1,5 @@
 # Tardis
-requested code for a coding test
+requested code for a coding exercise
 
 
 REQUIRED TECHNOLOGIES : 
